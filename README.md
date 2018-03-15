@@ -1,7 +1,9 @@
 ## 微信跳一跳辅助opencv实现
 ### 运行效果
-<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png" style="width:150px;height:auto;" />
-<image src="https://github.com/csuhan/wechatJump/blob/master/img/4_26500.png" style="width:150px;height:auto;" />
+<figure class="half">
+<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png"  />
+<image src="https://github.com/csuhan/wechatJump/blob/master/img/4_26500.png"/>
+</figure>
 
 ### 基本思路
 * adb截屏并上传到电脑
