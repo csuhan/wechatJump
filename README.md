@@ -1,6 +1,8 @@
 ## 微信跳一跳辅助opencv实现
 ### 运行效果
-<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png" style="width:300px;height:auto;" />
+<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png" style="width:150px;height:auto;" />
+<image src="https://github.com/csuhan/wechatJump/blob/master/img/4_26500.png" style="width:150px;height:auto;" />
+
 ### 基本思路
 * adb截屏并上传到电脑
 * 匹配棋子，从而得到棋子位置
