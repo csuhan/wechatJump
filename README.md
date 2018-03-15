@@ -1,8 +1,7 @@
 ## 微信跳一跳辅助opencv实现
 ### 运行效果
 <figure class="half">
-<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png" width="300" />
-<image src="https://github.com/csuhan/wechatJump/blob/master/img/4_26500.png" width="300" />
+<image src="https://github.com/csuhan/wechatJump/blob/master/img/1_41.png" width="300" /><image src="https://github.com/csuhan/wechatJump/blob/master/img/4_26500.png" width="300" />
 </figure>
 
 ### 基本思路
